@@ -1,3 +1,4 @@
+// I have read the Contributor License Agreement (CLA) and hereby sign the CLA.
 use axum::routing::{get, post};
 use axum::Router;
 use mimalloc::MiMalloc;
